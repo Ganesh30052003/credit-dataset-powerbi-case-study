@@ -14,7 +14,6 @@ Through this exercise, I gained hands-on experience in **data cleaning, aggregat
 - **File:** `credit.csv`  
 - **Columns include:** loan purpose, credit history, personal status, employment length, saving balance, months loan duration, job type, housing, etc.  
 
-> ⚠️ Note: If the dataset is not shareable, you can download it from [UCI Repository](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))  
 
 ---
 
@@ -75,8 +74,8 @@ All results were visualized in **Power BI Desktop canvas** using **Table visuals
 
 ## 📌 Author  
 👤 **Ganesh Kondamwar**  
-- 🌐 [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/ganesh-kondamwar-30309222b/))  
-- 💻 [GitHub]([your-github-url](https://github.com/Ganesh30052003))  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ganesh-kondamwar-30309222b/)  
+- 💻 [GitHub](https://github.com/Ganesh30052003)  
 
 ---
 
